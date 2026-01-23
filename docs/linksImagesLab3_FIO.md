@@ -4,5 +4,5 @@
 [vk] (https://m.vk.com/)
 [tg] (https://web.telegram.org/)
 [wb] (https://www.wildberries.ru/)
-![природа](vertical-shot-trees-near-mountain-fog-with-white-background.jpg)
-![подарок](3d-render-gift-box-black-package-with-pink-bow.jpg)
+![природа](img/vertical-shot-trees-near-mountain-fog-with-white-background.jpg)
+![подарок](img/3d-render-gift-box-black-package-with-pink-bow.jpg)
