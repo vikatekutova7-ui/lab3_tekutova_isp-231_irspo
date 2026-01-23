@@ -8,4 +8,13 @@
     * Запрашивает у пользователя **два числа** 
     * Выполняет **их сложение**
     * Выводит результаты в **форматированном виде** 
-    
+    ---
+    ### Пример структуры кода с комментариями в стиле Markdown:
+```
+Console.Write("Введите первое число: ");
+double num1 = Convert.ToDouble(Console.ReadLine());
+Console.Write("Введите второе число: ");
+double num2 = Convert.ToDouble(Console.ReadLine());
+double sum = num1+num2;
+Console.WriteLine($"**Результаты операций: {sum}**")
+```
