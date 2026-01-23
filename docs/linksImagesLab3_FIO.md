@@ -1,0 +1,8 @@
+[Github] (https://github.com/vikatekutova7-ui/lab3_tekutova_isp-231_irspo)
+[Markdown] (https://www.markdownguide.org/ "Перейти на официальный сайт")
+![Скриншот задания](img/gitPushLab3_Tekutova.png)
+[vk] (https://m.vk.com/)
+[tg] (https://web.telegram.org/)
+[wb] (https://www.wildberries.ru/)
+![природа](vertical-shot-trees-near-mountain-fog-with-white-background.jpg)
+![подарок](3d-render-gift-box-black-package-with-pink-bow.jpg)
