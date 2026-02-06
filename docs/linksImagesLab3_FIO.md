@@ -6,7 +6,7 @@
 
 ---
 
-[!Скриншот задания](img/linksCommitLab3_Tekutova.png)
+![Скриншот задания](/img/advancedMarkdownCommitLab3_Tekutova.png)
 
 ---
 
@@ -16,6 +16,6 @@
 
 [wb](https://www.wildberries.ru/)
 
-![природа](img/vertical-shot-trees-near-mountain-fog-with-white-background.jpg)
+![природа](/img/vertical-shot-trees-near-mountain-fog-with-white-background.jpg)
 
-![подарок](img/3d-render-gift-box-black-package-with-pink-bow.jpg)
+![подарок](/img/3d-render-gift-box-black-package-with-pink-bow.jpg)
